@@ -47,3 +47,22 @@ using the stored data, should be able to analyze and respond with options like
 [Product B]."
 ○ Key Focus: Implement natural language processing (NLP) capabilities for the
 chatbot to understand and accurately respond to complex queries.
+
+### ● 4. Dashboard Development:
+
+○ Objective: Create a dashboard to visually present the scraped data.
+○ Elements with Examples:
+■ Input field for querying data (chatbot)
+■ Total number of listings.
+■ Average product price.
+■ Average ratings of products.
+■ Average review count per product.
+■ Total number of questions asked.
+■ Top 5 products based on defined criteria (e.g., highest ratings, most
+reviews) A dynamic section showcasing the top 5 mobile phones based
+on a selected criterion like highest rating or most reviews. Each product
+would have a visual representation of a clickable link (not a real URL, but
+a placeholder for demonstration purposes).
+■ Make product details clickable with URLs linking back to the
+respective product on daraz.pk.
+■ Use Flask.
